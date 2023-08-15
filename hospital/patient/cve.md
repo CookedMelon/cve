@@ -1,13 +1,11 @@
 https://www.sourcecodester.com/php/16720/free-hospital-management-system-small-practices.html
 
-Free Hospital Management System for Small Practices 1.0
-1. SQL injection
-
+## Free Hospital Management System for Small Practices 1.0
 ![Alt text](image.png)
 
-/patient/appointment.php
+A vulnerability classified as critical has been found in SourceCodester Free Hospital Management System for Small Practices 1.0. Affected is an unknown function of the file /patient/appointment.php
 
-parameter: sheduledate
+The manipulation of the argument: sheduledate
 
 ---
 Parameter: sheduledate (POST)
